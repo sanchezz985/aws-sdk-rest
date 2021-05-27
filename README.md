@@ -23,8 +23,6 @@ This project uses the following:
 ***
 Follow this steps for proper install:
 
-* Go into the project where you want to install the dependency.
-
 ```sh
 $ git clone https://example.com
 $ cd /directory/where/project/was/cloned
