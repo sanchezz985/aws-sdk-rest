@@ -60,8 +60,8 @@ $ npm start
 
 At this moment the API have the following endpoints:
 
-* [[GET] /v1/aws/cloudwatch/groups]([get]-/v1/aws/cloudwatch/groups)
-* [[GET] /v1/aws/cloudwatch/logs]([get]-/v1/aws/cloudwatch/logs)
+* [[GET] /v1/aws/cloudwatch/groups](get-v1awscloudwatchgroups)
+* [[GET] /v1/aws/cloudwatch/logs](get-v1awscloudwatchlogs)
 
 ##### [GET] /v1/aws/cloudwatch/groups
 Gets all cloudwatch groups in the aws account that you configured in the **.env** file.
