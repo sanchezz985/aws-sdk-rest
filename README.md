@@ -88,7 +88,7 @@ Gets all logs in the aws account that you configured in the **.env** file, this 
 
 Param | type | example
 --- | --- | ---
-groupName | queryParam | /aws/lambda/I20-012ADS-RDS-PRD
+groupName | queryParam | /aws/lambda/LAMBDA-TEST
 startTime | queryParam | 2021/05/26 17:00:00
 endTime | queryParam | 2021/05/26 24:00:00
 
