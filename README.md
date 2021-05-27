@@ -24,7 +24,7 @@ This project uses the following:
 Follow this steps for proper install:
 
 ```sh
-$ git clone https://example.com
+$ git clone https://github.com/sanchezz985/aws-sdk-rest.git
 $ cd /directory/where/project/was/cloned
 $ npm install
 ``` 
